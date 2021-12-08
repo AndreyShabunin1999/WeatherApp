@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location">Location</string>
+    <string name="update_at">Update at</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="create_by">Create by</string>
+    <string name="name">Andrey</string>
+    <string name="min_temp">Min. temp:</string>
+    <string name="max_temp">Max. temp:</string>
+    <string name="speed_wind">m/s</string>
+    <string name="pressure_izmer">P</string>
+    <string name="hint_town">Name of the locality</string>
+</resources>

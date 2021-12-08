@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location">Орналасуы</string>
+    <string name="update_at">Жаңартылды</string>
+    <string name="sunrise">Күннің шығуы</string>
+    <string name="sunset">Күннің батуы</string>
+    <string name="wind">Жел</string>
+    <string name="pressure">Қысым</string>
+    <string name="humidity">Ылғалдылық</string>
+    <string name="create_by">Әзірлеуші:</string>
+    <string name="name">Андрей</string>
+    <string name="min_temp">ең төменгі. темп:</string>
+    <string name="max_temp">Ең жоғары. темп:</string>
+    <string name="speed_wind">м/с</string>
+    <string name="pressure_izmer">Па</string>
+    <string name="hint_town">Елді мекен атауы</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location">Локация</string>
+    <string name="update_at">Обновлено</string>
+    <string name="sunrise">Восход</string>
+    <string name="sunset">Закат</string>
+    <string name="wind">Ветер</string>
+    <string name="pressure">Давление</string>
+    <string name="humidity">Влажность</string>
+    <string name="create_by">Разработал</string>
+    <string name="name">Андрей</string>
+    <string name="min_temp">Мин. темп:</string>
+    <string name="max_temp">Макс. темп:</string>
+    <string name="speed_wind">м/с</string>
+    <string name="pressure_izmer">Па</string>
+    <string name="hint_town">Название населённого пункта</string>
+</resources>
